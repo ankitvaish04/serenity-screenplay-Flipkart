@@ -1,0 +1,76 @@
+{  
+   "testCases":[
+   	{  
+         "file":"C:\\Windows\\System32\\notepad.exe",
+         "profile":"SEZ-Kyocera on 10.131.253.47",
+         "properties":[
+            {
+               "type" : "pagesize",
+               "attribute" : {
+                  "value" : "8K"
+               }
+            }, 
+            {
+               "type" : "watermark",
+               "attribute" : {
+                  "value" : "Sample"
+               }
+            },
+            {
+               "type" : "mediatype",
+               "attribute" : {
+                  "value" : "Color"
+               }
+            }
+         ]
+      },
+      {
+         "file":"C:\\Windows\\System32\\notepad.exe",
+         "profile":"SEZ-Kyocera on 10.131.253.47",
+         "properties":[
+            {
+               "type" : "pagesize",
+               "attribute" : {
+                  "value" : "16K"
+               }
+            },
+            {
+               "type" : "watermark",
+               "attribute" : {
+                  "value" : "Copy"
+               }
+            }
+         ]
+      },	  
+      {
+         "file":"C:\\Windows\\System32\\notepad.exe",
+         "profile":"SEZ-Kyocera on 10.131.253.47",
+         "properties":[
+            {
+               "type" : "collate",
+               "attribute" : {
+                  "value" : "OFF"
+               }
+            },
+            {
+               "type" : "orientation",
+               "attribute" : {
+                  "value" : "Rotated Landscape"
+               }
+            },
+            {
+               "type" : "duplex",
+               "attribute" : {
+                  "value" : "Flip on short edge"
+               }
+            },
+            {
+               "type" : "Eco Print",
+               "attribute" : {
+                  "value" : "ON"
+               }
+            }
+         ]
+      }
+   ]
+}
